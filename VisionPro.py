@@ -1,3 +1,8 @@
+#!/usr/bin/python3
+
+# -*- Author: Ali (Real0x0a1) -*-
+# -*- Description: This project allows users to control their computer using eye gaze and finger movements. just like Apple VisionPro -*-
+
 import cv2
 import mediapipe as mp
 import pyautogui
