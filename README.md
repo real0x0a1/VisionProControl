@@ -1,15 +1,6 @@
 # VisionProControl
 This project allows users to control their computer using eye gaze and finger movements. The project utilizes computer vision techniques to track facial landmarks and hand gestures, translating them into mouse movements and actions.
 
-Certainly! Below is a template for a README.md file, GitHub topics, and GitHub description for your project:
-
-### README.md
-
-```markdown
-# VISIONPRO: Eye and Finger Control for Computer Interaction
-
-VISIONPRO is a computer interaction project that allows users to control their computer using eye gaze and finger movements. The project utilizes computer vision techniques to track facial landmarks and hand gestures, translating them into mouse movements and actions.
-
 ## Features
 
 - **Eye Gaze Control:** Move the mouse cursor based on the user's eye gaze.
@@ -31,18 +22,16 @@ VISIONPRO is a computer interaction project that allows users to control their c
    ```
 
 2. Open Directory:
-   ```
+   ```bash
    cd VisionProControl
    ```
 
 4. Install dependencies:
-
    ```bash
    pip3 install -r requirements.txt
    ```
 
 5. Run the application:
-
    ```bash
    python3 VisionPro.py
    ```
